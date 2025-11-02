@@ -1,4 +1,5 @@
 Overview
+
 This project provisions a complete AWS environment using Terraform.
 It automatically creates a VPC, subnet, security group, and an EC2 instance running Nginx.
 Terraform outputs a public URL for the Nginx web server upon deployment.
